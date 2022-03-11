@@ -1,6 +1,6 @@
 {
   "name": "dev-flatten",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is about flattening an arrray",
   "main": "index.js",
   "homepage": "https://github.com/HasanAutomation/dev-flatten",
