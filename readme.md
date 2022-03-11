@@ -1,4 +1,4 @@
-# github-repos-search
+# dev-flatten
 
 Convert a nested array into a single array
 
