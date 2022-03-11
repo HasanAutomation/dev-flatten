@@ -24,8 +24,6 @@ import { flatten } from 'dev-flatten';
 
 ## Example
 
-### Using promises:
-
 ```js
 const arr = [1, 2, 3, [1, 2], [1, [2, [2, 3]]]];
 console.log(flatten(arr));
